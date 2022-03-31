@@ -1,4 +1,25 @@
-div#id1{ font-family: Verdana, Geneva, Tahoma, sans-serif; color: blue;}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: blue;            
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: black;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    color: white;
+}
+.classeA{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+#paragrafo1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: blue;
+}
+
 
 
 
